@@ -103,6 +103,10 @@ remotes::install_github("ropensci/targets")
 
 ### Using Git and GitHub
 
+``` r
+usethis::use_git_config(user.name = "", user.email = )
+```
+
 ### Using `renv`
 
 ``` r
