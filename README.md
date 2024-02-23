@@ -37,12 +37,14 @@ The template has the following structure.
     ├── analysis/                     # R scripts (not function) to run analysis
     │
     ├── outputs/                      # Outputs 
-    │   ├── stats/               # Analysed results (R objects, .csv, etc.)
+    │   ├── stats/                    # Analysed results (R objects, .csv, etc.)
     │   ├── report/                   # Report format (delete if not applicable)
     │   ├── paper/                    # Paper format (delete if not applicable)
     │   └── thesis/                   # Thesis format (delete if not applicable)
     │
     ├── figures/                      # Figures (.png, .pdf, etc.)
+    │
+    ├── misc/                         # Misc
     │
     ├── index.qmd                     # The main index file for the documentation website
     ├── about.qmd                     # An about page for the documentation website
