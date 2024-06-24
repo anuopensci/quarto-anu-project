@@ -34,7 +34,7 @@ The template has the following structure.
     │   ├── data-input/               # Extracted and coerced from raw data
     │   └── data-valid/               # Edit and imputed from input data
     │
-    ├── analysis/                     # Scripts (not functions) to run analysis
+    ├── code/                     # Scripts (not functions) to run analysis
     │
     ├── outputs/                      # Outputs 
     │   ├── stats/                    # Analysed results (R objects, .csv, etc.)
